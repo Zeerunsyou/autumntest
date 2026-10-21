@@ -1,0 +1,18 @@
+{
+  "profiles": [
+    {
+      "id": "7ad76aaa-293b-474e-bd4d-8003e8f863ef",
+      "name": "Default",
+      "settings": {
+        "movement": "Walk",
+        "walkspeedenabled": false,
+        "walkspeed": 45,
+        "walkdynamic": false,
+        "walkspeed2": 1.5,
+        "tweenspeed": 6,
+        "jumpshortcuts": false,
+        "cannon": false
+      }
+    }
+  ]
+}
